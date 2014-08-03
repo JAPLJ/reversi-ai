@@ -1,0 +1,4 @@
+reversi-ai
+==========
+
+Reversi AI
